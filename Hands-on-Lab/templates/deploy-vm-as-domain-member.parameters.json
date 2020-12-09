@@ -6,7 +6,7 @@
             "value": "VNet1" 
         },
         "subnetName": {
-            "value": "Subnet-1"
+            "value": "Subnet-2"
         },
         "virtualMachineName": {
             "value": "Server-1"
